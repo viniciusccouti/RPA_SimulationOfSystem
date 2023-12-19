@@ -8,4 +8,4 @@
     - Step 4: Treat data from contacts list
     - Step 5: Fill informations in the system - in this case is writing an email and send it.
 - The main goal of this project is to showcase undertand of pyautogui documentation and how a Robotic Process Automation can help in manual daily tasks.
- 
+ - The PNG's files were used here in order to locate the icon required to make this automation.In order for this work in you computer you need to print the same icons and update in your folder since coordinates vary in different screens.
